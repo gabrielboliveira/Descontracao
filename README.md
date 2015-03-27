@@ -1,8 +1,6 @@
 # Descontração
 
-Este é um jogo desenvolvido utilizando a Unity 4.6.3 free como exigência parcial da disciplina de Computação Gráfica, 2º semestre de 2014, pelo Prof. Dr. José Remo Ferreira Brega, na Universidade Estadual Paulista "Júlio de Mesquita Filho" - Faculdade de Ciências - Campus Bauru.
-
-Desenvolvido por Gabriel Luiz Bastos de Oliveira e Gustavo Henrique de Rosa. A ideia do jogo é você destruir o máximo possível de objetos do cenário em um minuto.
+Este é um jogo desenvolvido por Gabriel Luiz Bastos de Oliveira e Gustavo Henrique de Rosa utilizando a Unity 4.6.3 free como exigência parcial da disciplina de Computação Gráfica, 2º semestre de 2014, Prof. Dr. José Remo Ferreira Brega, na Universidade Estadual Paulista "Júlio de Mesquita Filho" - Faculdade de Ciências - Campus Bauru. A ideia do jogo é você destruir o máximo possível de objetos do cenário em um minuto.
 
 O projeto da Unity está na pasta Source. É possível jogar online e baixar os executáveis no site: http://bit.ly/DescontracaoGame
 
